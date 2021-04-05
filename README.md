@@ -1,5 +1,6 @@
 # Main
 - Esto desde el main
+- Cambio cuando hay rama en paralelo
 
 
 # Primer Rama
@@ -10,3 +11,4 @@
 
 # Segunda Rama
 - Aguante GIT
+
