@@ -12,8 +12,5 @@
 # Segunda Rama
 - Aguante GIT
 
-<<<<<<< HEAD
-=======
 # Tercer Rama
 - Camilo :)
->>>>>>> tercer-rama
